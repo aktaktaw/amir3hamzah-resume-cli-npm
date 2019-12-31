@@ -1,0 +1,46 @@
+{
+   
+    "Working Experience":[
+        "Dec 2017 - Present, R&D Freelance Developer @ Cyberjaya",
+        "Sept 2017 - Dec 2017, Unity Developer @ Interrobang Sdn Bhd, Damansara",
+        "May 2017 - Sept 2017, Jr. PHP Developer @ Bestinet Payment Sdn Bhd, Cyberjaya",
+        "Sept 2016 - Feb 2017, Intern @ Hewlett Packard Enterprise, Cyberjaya"
+    ],
+    "Education":[
+        "2013 - 2016 Bachelor Computer Science (Interactive Media), Universiti Teknikal Malaysia Melaka",
+        "2010 - 2013 Diploma in Information Technology, Universiti Teknikal Malaysia Melaka"
+    ],
+    "Skills": [
+        "Augmented Reality",
+        "Virtual Reality",
+        "Internet of Things",
+        "Node.js",
+        "Vue.js",
+        "Hologram Projection",
+        "Unity",
+        "A-Frame.js",
+        "Git",
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+    ],
+    "Personal Projects":[
+        "IOT: Water column alert system",
+        "IOT: Simple agriculture monitoring dashboard for STEM education demo",
+        "IOT: Control and change LED Color via website",
+        "IOT: Simple robot controlled via SSH",
+        "IOT: Dashboard control 4 computer/server",
+        "Arduino: LED visualizer reacting to sound or music",
+        "VR: WebVR 360 in Masjid Cyber 10, Cyberjaya",
+        "AR: Instructional network cable to router",
+        "AR: AR mobile application for tourism in Melaka (FYP)",
+        "AR: AR art freeze particle",
+        "AR: AR art perspective",
+        "Hologram: Simple 1 face hologram demo"
+    ],   
+    "Contact":[
+        "Phone No: +601 6557 5220",
+        "Email: amir3hamzah.gmail.com",
+        "Linkedin: linkedin.com/in/amir3hamzah",
+        "Github: github.com/aktaktaw"
+    ]
+}
