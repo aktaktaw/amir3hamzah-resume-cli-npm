@@ -5,6 +5,7 @@
 - Open terminal or command prompt
 - Git clone this repo
 - cd amir3hamzah-resume-cli-npm
+- npm install
 - run node index.js
 - Enjoy view the worthless resume in terminal
 
