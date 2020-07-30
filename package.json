@@ -1,6 +1,6 @@
 {
-  "bin":{
-    "amir3hamzah-resume-cli":"./index.js"
+  "bin": {
+    "amir3hamzah-resume-cli": "./index.js"
   },
   "name": "amir3hamzah-resume",
   "version": "1.0.0",
@@ -16,7 +16,7 @@
   "author": "amir hamzah",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^2.4.2",
-    "inquirer": "^6.2.2"
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.3"
   }
 }
